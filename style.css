@@ -148,6 +148,7 @@ button{
     text-decoration: none;
     margin: 5px 2px;
     border-radius: 50%;
+    font-style:white;
 
 }
 .twitter {
@@ -165,6 +166,7 @@ button{
     text-decoration: none;
     margin: 5px 2px;
     border-radius: 50%;
+    font-style:white;
 }
 .google{
     background: red;
@@ -179,6 +181,7 @@ button{
     margin: 5px 2px;
     text-align: center;
     position: relative;
+    font-style:white;
 }
 .add{
     font-size: 12px;
